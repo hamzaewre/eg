@@ -1,0 +1,18 @@
+h1{
+text-align: center;
+color: red;
+background-color: orange;
+}
+
+p{
+   color: blue;
+}
+
+h2{
+   text-align: center;
+   color: brown;
+}
+
+img{
+   border: 5px solid black;
+}
